@@ -1,1 +1,0 @@
-Java -cp "C:\Jenkins\LTMS_Functional_Automation_Suite\lib\*;C:\Jenkins\LTMS_Functional_Automation_Suite\bin" org.testng.TestNG C:\Jenkins\LTMS_Functional_Automation_Suite\testng.xml
